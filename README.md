@@ -1,0 +1,1 @@
+# 2019_Nov_Personal_Changelog
