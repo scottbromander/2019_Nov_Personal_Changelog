@@ -6,4 +6,6 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 ---
 
 #### Monday, November 4th, 2019
+- Working through [TeamTreeHouse, Beginning Data Science Track](https://teamtreehouse.com/tracks/beginning-data-science)
+- Gratitude Journaling
 - Workout, Upper Body
