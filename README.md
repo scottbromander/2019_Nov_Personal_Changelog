@@ -5,6 +5,7 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 
 ---
 #### Friday, November 8th, 2019
+- Gratitude Journaling
 - (Re)Reading - [Mere Christianity](https://www.amazon.com/Mere-Christianity-C-S-Lewis/dp/0060652926)
 - Workout, Mixed
 
