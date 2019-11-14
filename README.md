@@ -6,6 +6,12 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 ---
 #### Tuesday, November 12th, 2019
 - Gratitude Journaling
+- (Re)Reading - [Heaven](https://www.amazon.com/gp/product/0842379428/ref=dbs_a_def_rwt_bibl_vppi_i0)
+- (Re)Reading - [Mere Christianity](https://www.amazon.com/Mere-Christianity-C-S-Lewis/dp/0060652926)
+- Workout, Shoulders/Arms
+
+#### Tuesday, November 12th, 2019
+- Gratitude Journaling
 - (Re)Reading - [Mere Christianity](https://www.amazon.com/Mere-Christianity-C-S-Lewis/dp/0060652926)
 - Workout, Chest/Back
 
