@@ -4,6 +4,11 @@
 This is a personal changelog of my updates. Not everything is code. I wanted to create visability around the behaviors and habits for my students. Note that this log is starting as of August 21st, 2019 and it not a full description of what I have read and courses I have taken. 
 
 ---
+#### Friday, November 15th, 2019
+- Gratitude Journaling
+- (Re)Reading - [Mere Christianity](https://www.amazon.com/Mere-Christianity-C-S-Lewis/dp/0060652926)
+- Workout, Cardio
+
 #### Thursday, November 14th, 2019
 - Gratitude Journaling
 - (Re)Reading - [Heaven](https://www.amazon.com/gp/product/0842379428/ref=dbs_a_def_rwt_bibl_vppi_i0)
