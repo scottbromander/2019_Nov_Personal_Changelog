@@ -4,7 +4,11 @@
 This is a personal changelog of my updates. Not everything is code. I wanted to create visability around the behaviors and habits for my students. Note that this log is starting as of August 21st, 2019 and it not a full description of what I have read and courses I have taken. 
 
 ---
-#### Wednesday, November 19th, 2019
+#### Thursday, November 21st, 2019
+- Crafting - [Spin Wheel of Client Hell - A Toy App](https://github.com/scottbromander/spin-wheel-of-client-hell)
+- Reading - [A Grief Observed](https://www.amazon.com/Blackstone-Audio-Inc-Grief-Observed/dp/B000EAT1UG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1574385199&sr=8-2)
+
+#### Wednesday, November 20th, 2019
 - 🎉 (Re)Reading - [Mere Christianity](https://www.amazon.com/Mere-Christianity-C-S-Lewis/dp/0060652926) - Completed
 
 #### Tuesday, November 19th, 2019
