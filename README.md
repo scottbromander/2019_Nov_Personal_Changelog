@@ -5,6 +5,10 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 
 ---
 #### Friday, November 22st, 2019
+- Reading - [Code this Game](https://www.amazon.com/Code-This-Game-Python-Create/dp/1250306698/ref=sr_1_1?crid=23M5C0FJCFFGC&keywords=code+this+game&qid=1574555129&sprefix=code+this+%2Caps%2C169&sr=8-1)
+- Reading - [A Grief Observed](https://www.amazon.com/Blackstone-Audio-Inc-Grief-Observed/dp/B000EAT1UG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1574385199&sr=8-2)
+
+#### Friday, November 22st, 2019
 - Crafting - [Spin Wheel of Client Hell - A Toy App](https://github.com/scottbromander/spin-wheel-of-client-hell)
 - Reading - [A Grief Observed](https://www.amazon.com/Blackstone-Audio-Inc-Grief-Observed/dp/B000EAT1UG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1574385199&sr=8-2)
 - Workout, Shoulders/Arms
