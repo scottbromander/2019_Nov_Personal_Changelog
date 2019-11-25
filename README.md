@@ -4,11 +4,14 @@
 This is a personal changelog of my updates. Not everything is code. I wanted to create visability around the behaviors and habits for my students. Note that this log is starting as of August 21st, 2019 and it not a full description of what I have read and courses I have taken. 
 
 ---
-#### Friday, November 22st, 2019
+#### Sunday, November 24th, 2019
+- Reading - [A Grief Observed](https://www.amazon.com/Blackstone-Audio-Inc-Grief-Observed/dp/B000EAT1UG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1574385199&sr=8-2)
+
+#### Saturday, November 23rd, 2019
 - Reading - [Code this Game](https://www.amazon.com/Code-This-Game-Python-Create/dp/1250306698/ref=sr_1_1?crid=23M5C0FJCFFGC&keywords=code+this+game&qid=1574555129&sprefix=code+this+%2Caps%2C169&sr=8-1)
 - Reading - [A Grief Observed](https://www.amazon.com/Blackstone-Audio-Inc-Grief-Observed/dp/B000EAT1UG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1574385199&sr=8-2)
 
-#### Friday, November 22st, 2019
+#### Friday, November 22nd, 2019
 - Crafting - [Spin Wheel of Client Hell - A Toy App](https://github.com/scottbromander/spin-wheel-of-client-hell)
 - Reading - [A Grief Observed](https://www.amazon.com/Blackstone-Audio-Inc-Grief-Observed/dp/B000EAT1UG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1574385199&sr=8-2)
 - Workout, Shoulders/Arms
