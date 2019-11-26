@@ -6,6 +6,7 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 ---
 #### Monday, November 25th, 2019
 - Reading - [A Grief Observed](https://www.amazon.com/Blackstone-Audio-Inc-Grief-Observed/dp/B000EAT1UG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1574385199&sr=8-2)
+- Workout, Chest/Back
 
 #### Sunday, November 24th, 2019
 - Reading - [A Grief Observed](https://www.amazon.com/Blackstone-Audio-Inc-Grief-Observed/dp/B000EAT1UG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1574385199&sr=8-2)
