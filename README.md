@@ -4,7 +4,10 @@
 This is a personal changelog of my updates. Not everything is code. I wanted to create visability around the behaviors and habits for my students. Note that this log is starting as of August 21st, 2019 and it not a full description of what I have read and courses I have taken. 
 
 ---
-#### Monday, November 25th, 2019
+#### Wednesday, November 27th, 2019
+- Workout, Cardio
+
+#### Tuesday, November 26th, 2019
 - Reading - [Range](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484)
 -  🎉 Reading - [A Grief Observed](https://www.amazon.com/Blackstone-Audio-Inc-Grief-Observed/dp/B000EAT1UG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1574385199&sr=8-2) - Completed
 - Workout, Cardio/Shoulders/Arms
