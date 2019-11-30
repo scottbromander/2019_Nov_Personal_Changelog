@@ -4,6 +4,9 @@
 This is a personal changelog of my updates. Not everything is code. I wanted to create visability around the behaviors and habits for my students. Note that this log is starting as of Nov 4th, 2019 and it not a full description of what I have read and courses I have taken. 
 
 ---
+#### Friday, November 28th, 2019
+- Workout, Cardio, Chest/Back
+
 #### Thursday, November 28th, 2019
 - Workout, Cardio
 
