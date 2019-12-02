@@ -4,8 +4,12 @@
 This is a personal changelog of my updates. Not everything is code. I wanted to create visability around the behaviors and habits for my students. Note that this log is starting as of Nov 4th, 2019 and it not a full description of what I have read and courses I have taken. 
 
 ---
-#### Sunday
-- Reading - The Four Loves
+#### Monday, December 2nd, 2019
+- Reading - [The Four Loves](https://www.amazon.com/Four-Loves-C-S-Lewis/dp/0062565397/ref=pd_sbs_14_t_0/147-5591187-9022154?_encoding=UTF8&pd_rd_i=0062565397&pd_rd_r=6e1dc2e1-2768-4fbc-9255-e04ba2480bfe&pd_rd_w=KWGcM&pd_rd_wg=0Qddh&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=HCRS9Z76BHK2CJKM8PHC&psc=1&refRID=HCRS9Z76BHK2CJKM8PHC)
+- Workout, Chest/Triceps
+
+#### Sunday, December 1st, 2019
+- Reading - [The Four Loves](https://www.amazon.com/Four-Loves-C-S-Lewis/dp/0062565397/ref=pd_sbs_14_t_0/147-5591187-9022154?_encoding=UTF8&pd_rd_i=0062565397&pd_rd_r=6e1dc2e1-2768-4fbc-9255-e04ba2480bfe&pd_rd_w=KWGcM&pd_rd_wg=0Qddh&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=HCRS9Z76BHK2CJKM8PHC&psc=1&refRID=HCRS9Z76BHK2CJKM8PHC)
 
 #### Saturday, November 30h, 2019
 - Reading - [The Four Loves](https://www.amazon.com/Four-Loves-C-S-Lewis/dp/0062565397/ref=pd_sbs_14_t_0/147-5591187-9022154?_encoding=UTF8&pd_rd_i=0062565397&pd_rd_r=6e1dc2e1-2768-4fbc-9255-e04ba2480bfe&pd_rd_w=KWGcM&pd_rd_wg=0Qddh&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=HCRS9Z76BHK2CJKM8PHC&psc=1&refRID=HCRS9Z76BHK2CJKM8PHC)
